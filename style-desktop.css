@@ -26,7 +26,7 @@ h1 {
 
 #header {
   text-align: center;
-  background-image: url(../images/banner.jpg);
+  background-image: url(./assest/images/banner.jpg);
   background-position: center;
   background-size: cover;
   padding: 4em;
