@@ -1,0 +1,148 @@
+/* Your styles here */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap");
+
+body {
+  text-align: center;
+  color: #393d41;
+  font-family: "Open Sans", serif;
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+
+h1,
+h3,
+h4 {
+  font-family: "Montserrat", serif;
+  color: #25a2c3;
+  line-height: 1.5;
+}
+
+#logo {
+  border: 2px solid;
+  background-color: black;
+  padding: 1.5em;
+}
+
+header img {
+  width: 40%;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: 1em 0 1em 0;
+}
+
+h2 {
+  font-family: "Montserrat", serif;
+}
+
+#header {
+  background-image: url(../images/banner.jpg);
+  background-position: center center;
+  background-size: cover;
+  padding: 1.5em;
+}
+
+header p {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+button {
+  margin-bottom: 2em;
+  padding: 1em;
+  background-color: #f04c2f;
+  margin-bottom: 1em;
+  color: white;
+  border-radius: 7px;
+  font-family: "Montserrat", serif;
+  cursor: pointer;
+  border-color: #f04c2f;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+
+h3 {
+  font-size: 1.4em;
+  padding-bottom: 1em;
+  padding-top: 1.3em;
+}
+
+main p {
+  font-size: 1.1em;
+  padding-bottom: 1em;
+}
+
+main img {
+  width: 100%;
+}
+
+.notebook {
+  border-radius: 250px;
+  width: 70%;
+}
+h2 {
+  font-size: 2em;
+  padding-bottom: 1em;
+}
+
+#testimonianze {
+  border: 2px solid #e22d0e;
+  background-color: #e22d0e;
+  color: white;
+  padding-top: 2.5em;
+  margin-bottom: 4em;
+}
+
+.nome {
+  padding-bottom: 0;
+}
+
+main h4 {
+  padding: 0.8em;
+  font-size: 1.2em;
+}
+
+.foto {
+  border: 2px solid #dee1e3;
+  border-radius: 0;
+  margin-bottom: 2em;
+  border-radius: 0.5em;
+  margin-top: 2em;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  border: 2px solid transparent;
+  background-color: #25a2c3;
+  color: white;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin-top: 5em;
+}
+
+footer a {
+  color: white;
+}
+
+#copy {
+  padding-top: 1.5em;
+}
+
+hr {
+  margin-left: 8em;
+  margin-right: 8em;
+  margin-top: 2em;
+}
+
+i {
+  padding-right: 0.5em;
+}
+
+footer h2 {
+  padding-bottom: 0;
+}
